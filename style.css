@@ -1,0 +1,23 @@
+
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: rgb(100, 92, 96);
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.table {
+    background-color: aqua;
+}
+
+.card{
+    padding-top: 30px;
+}
